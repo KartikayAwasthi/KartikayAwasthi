@@ -8,8 +8,9 @@
 
 <!--<p align="left"> <a href="https://twitter.com/ikartikawasthi" target="blank"><img src="https://img.shields.io/twitter/follow/ikartikawasthi?logo=twitter&style=for-the-badge" alt="ikartikawasthi" /></a> </p>-->
 
-- ![gmail (2)](https://github.com/user-attachments/assets/d2ec4799-82bc-432e-a2b4-60322ad1c6b2)
- **ikartikay.awasthi@gmail.com**  
+- 📧 :
+ **ikartikay.awasthi@gmail.com**   
+
 
 
 
