@@ -10,7 +10,10 @@
 
 - 📫 How to reach me **ikartikay.awasthi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m1VNlA_RQSrADFKGR5eI-imJC6tIa26r/view?usp=drive_link](https://drive.google.com/file/d/1m1VNlA_RQSrADFKGR5eI-imJC6tIa26r/view?usp=drive_link)
+
+- 📄 Know about me :<a href="https://drive.google.com/file/d/1m1VNlA_RQSrADFKGR5eI-imJC6tIa26r/view?usp=drive_link" target="_blank">
+  <button>MyResume</button>
+</a>
 
 - ⚡ Fun fact **"I’ve mastered the art of budget travel and can put together a weekend trip with minimal costs. It’s like a challenge I enjoy!"**
 
