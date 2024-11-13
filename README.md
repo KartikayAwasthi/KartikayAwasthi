@@ -8,7 +8,10 @@
 
 <!--<p align="left"> <a href="https://twitter.com/ikartikawasthi" target="blank"><img src="https://img.shields.io/twitter/follow/ikartikawasthi?logo=twitter&style=for-the-badge" alt="ikartikawasthi" /></a> </p>-->
 
-- 📫 How to reach me **ikartikay.awasthi@gmail.com**
+- ![gmail (2)](https://github.com/user-attachments/assets/d2ec4799-82bc-432e-a2b4-60322ad1c6b2)
+ **ikartikay.awasthi@gmail.com**  
+
+
 
 
 - 📄 Know about me :<a href="https://drive.google.com/file/d/1m1VNlA_RQSrADFKGR5eI-imJC6tIa26r/view?usp=drive_link" target="_blank">
