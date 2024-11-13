@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikay Awasthi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1736985600&v=beta&t=vsoAQD-58B07JLgbUyBmN8vJjmAovs_-siP6uWcPMMU.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fnet-analyst-programmer-brussels-hybrid-12-months-finlay-chacksfield&psig=AOvVaw1Zp-C9X4ezuNPyj4g6kBd-&ust=1731591353543000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiFoNS22YkDFQAAAAAdAAAAABAJ.gif">
 
 
 <p align="left"> <a href="https://twitter.com/ikartikawasthi" target="blank"><img src="https://img.shields.io/twitter/follow/ikartikawasthi?logo=twitter&style=for-the-badge" alt="ikartikawasthi" /></a> </p>
