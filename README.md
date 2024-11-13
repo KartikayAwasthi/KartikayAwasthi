@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kartikay Awasthi</h1>
+![image](https://github.com/user-attachments/assets/d6558105-e6e0-4cae-9950-539be60eba3a)<h1 align="center">Hi 👋, I'm Kartikay Awasthi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img align="right" alt="coding" width="400" height="200" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1656679844338?e=1736985600&v=beta&t=vsoAQD-58B07JLgbUyBmN8vJjmAovs_-siP6uWcPMMU.gif"
 
 
 
