@@ -15,7 +15,7 @@
 
 
 
-- 📄 Know about me :<a href="https://drive.google.com/file/d/1m1VNlA_RQSrADFKGR5eI-imJC6tIa26r/view?usp=drive_link" target="_blank">
+- 📄 Know about me :<a href="https://drive.google.com/file/d/1RyQkGM-8ExsRhLApWjzUdFEBFD7rpMSu/view?usp=sharing">
   <button>MyResume</button>
 </a>
 
