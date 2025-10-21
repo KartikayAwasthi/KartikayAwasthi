@@ -12,7 +12,7 @@
 
 ### 💫 About Me
 
-- 🔭 Currently working on **Anthem Fans** & **Mock Yatra (UPSC Test Series Web App)**  
+- 🔭 Currently working on **Anthem Fans & Appliances** & **SIMPLY MUSIC INDIA MUSIC COMPANY**  
 - 🌱 Learning **Next.js 15**, **Three.js**, and **Motion-based UI/UX**  
 - 💬 Ask me about **React.js, Java, Spring Boot, MySQL, Tailwind, and API Development**  
 - 📧 Reach me at: **ikartikay.awasthi@gmail.com**  
