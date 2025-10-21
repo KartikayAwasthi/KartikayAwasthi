@@ -1,51 +1,54 @@
 <!-- ============================================================= -->
-<!-- 🧠 GITHUB PROFILE README FOR KARTIKAY AWASTHI -->
-<!-- Designed with ❤️ by GPT-5 | Optimized for Recruiter Attention -->
+<!-- 🧠 SEO-Optimized GitHub Profile README for Kartikay Awasthi -->
+<!-- Designed by GPT-5 | Full Stack Developer | React | Spring Boot -->
 <!-- ============================================================= -->
 
 <!-- 🖼️ Custom Banner -->
 <p align="center">
-  <img src="https://github.com/KartikayAwasthi/KartikayAwasthi/assets/banner.gif" alt="Kartikay Awasthi - Full Stack Developer" width="100%" />
+  <img src="https://github.com/KartikayAwasthi/KartikayAwasthi/assets/banner.gif" 
+       alt="Kartikay Awasthi - Full Stack Developer Portfolio Banner" width="100%" />
 </p>
 
 <!-- 👋 Introduction -->
 <h1 align="center">Hi 👋, I'm Kartikay Awasthi</h1>
-<h3 align="center">🚀 Full Stack Developer | React.js • Next.js • Java • Spring Boot • MySQL</h3>
+<h3 align="center">🚀 Full Stack Developer from India | React.js • Next.js • Java • Spring Boot • MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+SpringBoot;Creating+Beautiful+and+Performant+Web+Apps;Coding+Creativity+in+Every+Line!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+SpringBoot;Building+Interactive+and+3D+Web+Apps;Code+%2B+Creativity+%3D+Impact+💡" alt="Typing Animation showing Kartikay Awasthi full stack developer keywords" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="Kartikay Awasthi coding animation" width="380" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Currently working on **Anthem Fans & Appliances (Fans & Appliances , Goa)** & **Simply Music India (Music Company , Mumbai)**  
-- 🌱 Exploring **Next.js 15**, **Three.js**, and **Framer Motion** for immersive UI  
-- 💬 Ask me about **React.js, Java, Spring Boot, MySQL, and full-stack deployment**  
+I'm **Kartikay Awasthi**, a passionate **Full Stack Software Developer from India**, experienced in both **Frontend (React.js, Next.js)** and **Backend (Java, Spring Boot, MySQL)** development.  
+I love creating responsive, scalable, and user-friendly web applications with **clean UI/UX and strong backend architecture**.
+
+- 🔭 Currently working on: **[Anthem Fans & Appliances](https://anthemappliances.com)** & **[Simply Music India](https://www.simplymusicindia.com/)**  
+- 🌱 Exploring: **Next.js 15**, **Three.js**, and **Framer Motion** for advanced animation & performance  
+- 💬 Ask me about: **React.js**, **Java**, **Spring Boot**, **MySQL**, and **Full Stack App Deployment**  
 - 📧 Reach me at: **ikartikay.awasthi@gmail.com**  
-- 📄 View my resume:  
+- 📄 Resume:  
   <a href="https://drive.google.com/file/d/1sfxT332VBi_8uUfHi2H-xcL94LWyPDsC/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/My_Resume-%230077B5?style=flat&logo=googledrive&logoColor=white" />
   </a>  
-- ⚡ Fun fact: *I can plan a budget-friendly weekend trip faster than a server compiles Java!* 🌍
+- ⚡ Fun fact: *I can plan a budget-friendly weekend trip faster than a Java server compiles!* 🌍  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 My Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,26 +69,34 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured SEO Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Anthem Fans Website**](https://anthemappliances.com) | Premium ceiling fan brand site  | React, Tailwind, Framer Motion |
-| [**Simply_Music India**](https://simplymusicindia.com) | Music Company based in Mumbai | Next js , Tailwind , Framer Motion , Three.js|
-| [**Portfolio**](https://ikartikawasthi.netlify.app) | Personal portfolio with GSAP, Three.js & smooth scroll transitions | Next.js, Tailwind, GSAP |
+| [**Anthem Fans & Appliances**](https://anthemappliances.com) | A premium ceiling fan brand website with 3D visualizer, dark theme UI, and smooth animations. | React.js, Tailwind CSS, Framer Motion |
+| [**Simply Music India(Music Company based in Mumbai)**](https://www.simplymusicindia.com/) | A UPSC Mock Test Series Platform with login, timer, flag review, backend scoring logic. | React.js, Spring Boot, MySQL |
+| [**Portfolio Site**](https://ikartikawasthi.netlify.app) | Personal developer portfolio with GSAP animations, smooth scroll, and dark theme aesthetics. | Next.js, Tailwind, GSAP, Three.js |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayAwasthi&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=radical" alt="Kartikay Awasthi GitHub stats - React Developer, Spring Boot Developer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayAwasthi&theme=radical" alt="Kartikay Awasthi GitHub streak stats" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikayAwasthi&show_icons=true&locale=en&layout=compact&theme=radical" 
+       alt="Top programming languages used by Kartikay Awasthi - Java, JavaScript, React, Spring Boot" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:ikartikay.awasthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -98,13 +109,20 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📉 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&theme=react-dark&hide_border=true" 
+       alt="Kartikay Awasthi GitHub contribution graph - Full Stack Developer" />
 </p>
 
 ---
 
 <h3 align="center">⭐ “Turning ideas into interactive web experiences with code, creativity, and coffee.”</h3>
 
+<p align="center">
+  🧠 Keywords: Full Stack Developer India, React Developer, Java Backend Developer, Spring Boot Developer, Next.js, Tailwind CSS, MySQL, Software Engineer Portfolio
+</p>
+
+<!-- ============================================================= -->
+<!-- END OF SEO-OPTIMIZED GITHUB README -->
 <!-- ============================================================= -->
