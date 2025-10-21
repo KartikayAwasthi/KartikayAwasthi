@@ -73,8 +73,8 @@ I love creating responsive, scalable, and user-friendly web applications with **
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Anthem Fans & Appliances**](https://anthemappliances.com) | A premium ceiling fan brand website with 3D visualizer, dark theme UI, and smooth animations. | React.js, Tailwind CSS, Framer Motion |
-| [**Simply Music India(Music Company based in Mumbai)**](https://www.simplymusicindia.com/) | A UPSC Mock Test Series Platform with login, timer, flag review, backend scoring logic. | React.js, Spring Boot, MySQL |
+| [**Anthem Fans & Appliances**](https://anthemappliances.com) | A premium ceiling fan brand website | React.js, Tailwind CSS, Framer Motion |
+| [**Simply Music India(Music Company based in Mumbai)**](https://www.simplymusicindia.com/) | Music Company Based in Mumbai | Next.js, Three.js, Framer Motion, Tailwind CSS |
 | [**Portfolio Site**](https://ikartikawasthi.netlify.app) | Personal developer portfolio with GSAP animations, smooth scroll, and dark theme aesthetics. | Next.js, Tailwind, GSAP, Three.js |
 
 ---
