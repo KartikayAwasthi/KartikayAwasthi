@@ -69,7 +69,7 @@ I love creating responsive, scalable, and user-friendly web applications with **
 
 ---
 
-## 🚀 Featured SEO Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
