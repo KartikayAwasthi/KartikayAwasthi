@@ -1,60 +1,65 @@
 <!-- ============================================================= -->
-<!-- 🧠 SEO-Optimized GitHub Profile README for Kartikay Awasthi -->
-<!-- Designed by GPT-5 | Full Stack Developer | React | Spring Boot -->
+<!-- 🚀 FUTURISTIC & SEO-Optimized GitHub Profile README for Kartikay Awasthi -->
+<!-- Designed by GPT-5 | Modern Aesthetic | Developer Portfolio Style -->
 <!-- ============================================================= -->
 
-<!-- 🖼️ Custom Banner -->
+<!-- 🌌 Banner -->
 <p align="center">
-  <img src="https://github.com/KartikayAwasthi/KartikayAwasthi/assets/banner.gif" 
-       alt="Kartikay Awasthi - Full Stack Developer Portfolio Banner" width="100%" />
+  <img src="https://github.com/KartikayAwasthi/KartikayAwasthi/assets/banner-futuristic.gif" 
+       alt="Kartikay Awasthi - Futuristic Full Stack Developer Banner" width="100%" />
 </p>
 
-<!-- 👋 Introduction -->
-<h1 align="center">Hi 👋, I'm Kartikay Awasthi</h1>
-<h3 align="center">🚀 Full Stack Developer from India | React.js • Next.js • Java • Spring Boot • MySQL</h3>
+<!-- 👋 Intro Section -->
+<h1 align="center">✨ Hi, I’m <span style="color:#00FFFF;">Kartikay Awasthi</span> 👋</h1>
+<h3 align="center">🌍 Full Stack Developer | React • Next.js • Java • Spring Boot • MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+SpringBoot;Building+Interactive+and+3D+Web+Apps;Code+%2B+Creativity+%3D+Impact+💡" alt="Typing Animation showing Kartikay Awasthi full stack developer keywords" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=600&lines=Creating+Futuristic+Web+Experiences+🚀;Next.js+%7C+React+%7C+SpringBoot+%7C+Three.js;Merging+Design+%26+Performance+with+Code;Innovation+Through+Technology+⚙️" />
 </p>
 
-<img align="right" alt="Kartikay Awasthi coding animation" width="380" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="Coding animation" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ---
 
 ## 💫 About Me
 
-I'm **Kartikay Awasthi**, a passionate **Full Stack Software Developer from India**, experienced in both **Frontend (React.js, Next.js)** and **Backend (Java, Spring Boot, MySQL)** development.  
-I love creating responsive, scalable, and user-friendly web applications with **clean UI/UX and strong backend architecture**.
+I’m **Kartikay Awasthi**, a passionate **Full Stack Software Developer** from India 🇮🇳.  
+With a strong foundation in both **Frontend (React.js, Next.js)** and **Backend (Java, Spring Boot, MySQL)**,  
+I specialize in crafting **high-performance, visually stunning, and scalable web apps** that blend creativity with logic.
 
-- 🔭 Currently working on: **[Anthem Fans & Appliances](https://anthemappliances.com)** & **[Simply Music India](https://www.simplymusicindia.com/)**  
-- 🌱 Exploring: **Next.js 15**, **Three.js**, and **Framer Motion** for advanced animation & performance  
-- 💬 Ask me about: **React.js**, **Java**, **Spring Boot**, **MySQL**, and **Full Stack App Deployment**  
-- 📧 Reach me at: **ikartikay.awasthi@gmail.com**  
+💡 **What Drives Me:**  
+> “Turning ideas into interactive web realities through design, motion, and clean code.”
+
+- 🔭 Currently building: **[Anthem Fans & Appliances](https://anthemappliances.com)** & **[Simply Music India](https://www.simplymusicindia.com/)**
+- 🌱 Exploring: **Next.js 15**, **Three.js**, **Framer Motion**, & **AI-driven interfaces**
+- 💬 Ask me about: **React**, **Java**, **Spring Boot**, **MySQL**, **Deployment Pipelines**
+- 📧 Reach out: **ikartikay.awasthi@gmail.com**
 - 📄 Resume:  
   <a href="https://drive.google.com/file/d/1sfxT332VBi_8uUfHi2H-xcL94LWyPDsC/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/My_Resume-%230077B5?style=flat&logo=googledrive&logoColor=white" />
-  </a>  
-- ⚡ Fun fact: *I can plan a budget-friendly weekend trip faster than a Java server compiles!* 🌍  
+    <img src="https://img.shields.io/badge/View_My_Resume-%230077B5?style=flat&logo=googledrive&logoColor=white" />
+  </a>
+- ⚡ Fun fact: I can debug a server crash faster than I can choose a Netflix movie 🍿
 
 ---
 
-## 🧠 My Tech Stack
+## 🧠 Tech Universe
 
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=00FFFF)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1A202C?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-202020?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-0F9D58?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-202020?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -63,35 +68,36 @@ I love creating responsive, scalable, and user-friendly web applications with **
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**Anthem Fans & Appliances**](https://anthemappliances.com) | A premium ceiling fan brand website | React.js, Tailwind CSS, Framer Motion |
-| [**Simply Music India(Music Company based in Mumbai)**](https://www.simplymusicindia.com/) | Music Company Based in Mumbai | Next.js, Three.js, Framer Motion, Tailwind CSS |
-| [**Portfolio Site**](https://ikartikawasthi.netlify.app) | Personal developer portfolio with GSAP animations, smooth scroll, and dark theme aesthetics. | Next.js, Tailwind, GSAP, Three.js |
+| 🌟 Project | 💬 Description | 🧰 Stack |
+|-------------|----------------|-----------|
+| [**Anthem Fans & Appliances**](https://anthemappliances.com) | Premium fan brand website with animations & 3D visualizers | React.js, Tailwind CSS, Framer Motion |
+| [**Simply Music India**](https://www.simplymusicindia.com/) | Modern music label website with portrait-landscape media & motion UI | Next.js, Three.js, Framer Motion |
+| [**Personal Portfolio**](https://ikartikawasthi.netlify.app) | Developer portfolio with GSAP transitions & 3D integration | Next.js, GSAP, Tailwind CSS |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=radical" alt="Kartikay Awasthi GitHub stats - React Developer, Spring Boot Developer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayAwasthi&theme=radical" alt="Kartikay Awasthi GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikayAwasthi&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 ---
 
-## 📈 Top Languages
+## 🔤 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikayAwasthi&show_icons=true&locale=en&layout=compact&theme=radical" 
-       alt="Top programming languages used by Kartikay Awasthi - Java, JavaScript, React, Spring Boot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikayAwasthi&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFFF" width="50%" />
 </p>
 
 ---
@@ -99,30 +105,28 @@ I love creating responsive, scalable, and user-friendly web applications with **
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:ikartikay.awasthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kartikayawasthi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ikartikawasthi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://fb.com/ikartikayawasthi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/kartikay_awasthi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://ikartikawasthi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:ikartikay.awasthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikayawasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kartikay_awasthi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/ikartikawasthi"><img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://ikartikawasthi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📉 GitHub Activity Graph
+## 🧩 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&theme=react-dark&hide_border=true" 
-       alt="Kartikay Awasthi GitHub contribution graph - Full Stack Developer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
 
-<h3 align="center">⭐ “Turning ideas into interactive web experiences with code, creativity, and coffee.”</h3>
+<h3 align="center">💫 “Where Code Meets Creativity, and Ideas Turn Into Interactive Realities.”</h3>
 
 <p align="center">
-  🧠 Keywords: Full Stack Developer India, React Developer, Java Backend Developer, Spring Boot Developer, Next.js, Tailwind CSS, MySQL, Software Engineer Portfolio
+  🔍 <b>Keywords:</b> Full Stack Developer India | React | Next.js | Spring Boot | Java | MySQL | Tailwind | 3D Web | Software Engineer Portfolio
 </p>
 
 <!-- ============================================================= -->
-<!-- END OF SEO-OPTIMIZED GITHUB README -->
+<!-- 🌌 END OF FUTURISTIC GITHUB PROFILE README -->
 <!-- ============================================================= -->
