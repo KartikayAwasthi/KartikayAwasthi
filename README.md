@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=F75C7E&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+SpringBoot;Building+Interactive+and+3D+Web+Apps;Code+%2B+Creativity+%3D+Impact+💡" alt="Typing Animation showing Kartikay Awasthi full stack developer keywords" />
 </p>
 
-<img align="right" alt="Coding animation" width="380" src="[https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)" />
+<img align="right" alt="Coding animation" width="380" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
 ---
 
