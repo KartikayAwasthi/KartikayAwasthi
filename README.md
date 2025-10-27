@@ -14,7 +14,7 @@
 <h3 align="center">🌍 Full Stack Developer | React • Next.js • Java • Spring Boot • MySQL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=600&lines=Creating+Futuristic+Web+Experiences+🚀;Next.js+%7C+React+%7C+SpringBoot+%7C+Three.js;Merging+Design+%26+Performance+with+Code;Innovation+Through+Technology+⚙️" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 </p>
 
 <img align="right" alt="Coding animation" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
