@@ -1,280 +1,233 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kartikay%20Awasthi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%7C%20Next.js%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Shipping+Real+Products+for+Real+Clients;React+%7C+Next.js+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;Actively+Looking+for+Opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kartikay%20Awasthi&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Java%20Full-Stack%20%E2%80%A2%20GenAI%20Developer&descSize=20&descAlignY=56&animation=twinkling" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KartikayAwasthi&label=Profile%20Views&color=6366f1&style=flat-square"/>
-  &nbsp;
-  <a href="https://linkedin.com/in/kartikayawasthi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ikartikawasthi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://ikartikawasthi.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Immediately%20Available-brightgreen?style=flat-square"/>
+  <a href="https://portfolio-navy-one-gljpzd3r7d.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Java+Full-Stack+Developer+%E2%98%95;Spring+Boot+%E2%80%A2+Spring+AI+%E2%80%A2+LangChain4j+%F0%9F%A4%96;React+%26+Next.js+%E2%80%94+8%2B+live+websites+shipped+%F0%9F%9A%80;RAG+%E2%80%A2+Vector+DBs+%E2%80%A2+MCP+%E2%80%A2+LLM+apps;Open+to+roles+at+top+product+companies+%26+MNCs" alt="typing"/></a>
 </p>
 
----
-
-## About Me
-
-- **Name:** Kartikay Awasthi
-- **Role:** Full Stack Developer
-- **Location:** Delhi, India · Remote-friendly
-- **Focus:** React · Next.js · Spring Boot · Microservices · Java · Agentic AI (Spring AI, LangChain4j, MCP)
-- **Status:** Actively seeking full-time roles
-- **Email:** ikartikay.awasthi@gmail.com
-- **Portfolio:** [ikartikawasthi.netlify.app](https://ikartikawasthi.netlify.app)
-
-Full Stack Developer with **hands-on production experience** — I've shipped live websites for real clients across travel, education, music, appliances and creative industries. I build end-to-end: pixel-perfect frontends with **React & Next.js**, scalable backend systems with **Spring Boot & microservices**, and event-driven architectures with **Kafka**. Lately I've been focused on Java-native agentic AI — building with **Spring AI**, **LangChain4j** and **MCP**.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="50" />
-
-### Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring" height="50" />
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_REST-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<p align="center">
+  <a href="https://portfolio-navy-one-gljpzd3r7d.vercel.app"><img src="https://img.shields.io/badge/Ask%20Me%20Anything%20%E2%80%94%20AI%20Portfolio-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikayawasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.rozanaquiz.co.in"><img src="https://img.shields.io/badge/RozanaQuiz-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
-### Messaging & DevOps
-<img src="https://skillicons.dev/icons?i=kafka,docker,git,github,vercel,netlify" height="50" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KartikayAwasthi&style=flat-square&color=7C3AED&label=Profile+views"/>
+  <img src="https://img.shields.io/badge/Live%20projects-8%2B-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/KartikayAwasthi?label=Followers&style=flat-square&color=F59E0B"/>
+</p>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" height="50" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
-
----
-
-## Projects
-
-### Live — Shipped for Real Clients
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Unnat Classes</h3>
-      <p>Website for a GS (General Studies) competitive-exam coaching centre in Faridabad — courses, current affairs, a study-resource library with in-browser PDF preview, and a photo/video/reels gallery, all managed through a companion admin panel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-      <a href="https://www.unnatclasses.in">
-        <img src="https://img.shields.io/badge/Live%20Site-unnatclasses.in-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/unnat-classes">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>WeWravel</h3>
-      <p>Adventure travel platform offering curated trips across India's mountains, deserts, and spiritual destinations — tour packages across Himachal, Uttarakhand, and Rajasthan with community-focused experiences.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <a href="https://www.wewravel.com">
-        <img src="https://img.shields.io/badge/Live%20Site-wewravel.com-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/WeWravel-frontend">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Simply Music India</h3>
-      <p>Music production and sound design studio site offering composition, recording, and mastering services — serving artists, filmmakers, and corporate brands with professional audio production, built with a cinematic, 3D-driven UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-      </p>
-      <a href="https://www.simplymusicindia.com">
-        <img src="https://img.shields.io/badge/Live%20Site-simplymusicindia.com-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/Simply-Music-India">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Anthem Appliances</h3>
-      <p>Brand website for a premium smart fan and appliances company — product showcase with a 3D room visualizer, customer reviews, and multi-brand product catalog.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-      </p>
-      <a href="https://anthemappliances.com">
-        <img src="https://img.shields.io/badge/Live%20Site-anthemappliances.com-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/Anthem-Test1">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>LooksBeard Productions</h3>
-      <p>Post-production and motion design studio website — showcases cinematic video editing, 3D animation, motion graphics, and color grading services for brands like JioMart, Harpic and Freefire India.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-      </p>
-      <a href="https://www.looksbeardproductions.com">
-        <img src="https://img.shields.io/badge/Live%20Site-looksbeardproductions.com-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/looksbeard2026">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>VC Uttarakhand Travels</h3>
-      <p>SEO-first marketing site for a Rishikesh-based travel agency — 63 statically-generated pages covering taxi &amp; transport, Char Dham Yatra, adventure sports, bike rental and wellness retreats, with structured data and AI-crawler discoverability (llms.txt).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://vcuttarakhandtravels.co.in">
-        <img src="https://img.shields.io/badge/Live%20Site-vcuttarakhandtravels.co.in-brightgreen?style=for-the-badge"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/KartikayAwasthi/site">
-        <img src="https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+```yaml
+name:      Kartikay Awasthi
+role:      Java Full-Stack Developer
+backend:   [Java, Spring Boot, Spring AI, LangChain4j, REST]
+frontend:  [React, Next.js, JavaScript, HTML, CSS]
+data:      [MySQL, PostgreSQL, pgvector, Vector DBs]
+ai:        [RAG, MCP, Guardrails, LLM APIs]
+shipped:   8+ live websites for real clients & users
+education: B.Tech CSE — FGIET (2015–2019)
+journey:   UPSC prep 2019–24 (2× UPPCS interview) → Software Dev
+motto:     "Consistency beats intensity."
+```
+
+</td>
+<td width="42%" valign="middle" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
 </table>
 
----
+- 🔭 Building **[Ask Kartikay](https://portfolio-navy-one-gljpzd3r7d.vercel.app)** — a chat-first portfolio with an AI backend (RAG + MCP + guardrails)
+- 📚 Running **[RozanaQuiz.co.in](https://www.rozanaquiz.co.in)** — a free daily-quiz platform for exam aspirants
+- 💼 Delivered production websites for **coaching, music, travel & media** businesses
+- 🎯 Looking for **Software Developer** roles at product companies & MNCs
 
-### In Development
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<table>
+<tr>
+  <td align="center"><b>Languages</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java"/>
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Frameworks & Libraries</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot"/>
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Databases</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>Tools & Cloud</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/>
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker"/>
+    <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" title="Maven"/>
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel"/>
+    <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>AI / GenAI</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" title="Spring AI"/>
+    <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain4j" title="LangChain4j"/>
+    <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" title="RAG"/>
+    <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" title="pgvector"/>
+    <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" title="MCP"/>
+    <img src="https://img.shields.io/badge/Vector%20DB-FF4F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" title="Vector DB"/>
+  </td>
+</tr>
+</table>
+</div>
+
+<p align="center"><sub>💡 Hover over any logo to see its name</sub></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Products
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>TechPolarity</h3>
-      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
-      <p>Full-stack technical blogging platform for developers — with rich text editing, category management, and full CRUD. React admin dashboard, FastAPI + MongoDB backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <a href="https://github.com/KartikayAwasthi/Admin-Panel">
-        <img src="https://img.shields.io/badge/Admin%20Panel-View%20Code-6366F1?style=flat-square&logo=github"/>
-      </a>
-      <a href="https://github.com/KartikayAwasthi/tech-polarity-backend">
-        <img src="https://img.shields.io/badge/Backend-View%20Code-6DB33F?style=flat-square&logo=github"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>MockYatra</h3>
-      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
-      <p>Adaptive mock-test platform for repeat aspirants of Indian government competitive exams — timed test series with an exam-taking flow and a subscription tier.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </p>
-      <a href="https://github.com/KartikayAwasthi/mock-yatra">
-        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=flat-square&logo=github"/>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Job Application Agent</h3>
-      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
-      <p>An agentic AI portfolio project — automating parts of the job-application workflow with Spring AI and Kafka, backed by a React frontend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://portfolio-navy-one-gljpzd3r7d.vercel.app"><img src="https://api.microlink.io/?url=https%3A%2F%2Fportfolio-navy-one-gljpzd3r7d.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="Ask Kartikay — AI Chat Portfolio" width="100%"/></a>
+<h3>🤖 Ask Kartikay — AI Chat Portfolio</h3>
+<p>A ChatGPT-style portfolio — recruiters can <b>ask anything</b> about my skills, projects & journey. AI backend with <b>RAG + MCP + guardrails</b> on pgvector in progress.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/></p>
+<p><a href="https://portfolio-navy-one-gljpzd3r7d.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.rozanaquiz.co.in"><img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.rozanaquiz.co.in&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="RozanaQuiz — Free Daily Quiz Platform" width="100%"/></a>
+<h3>📝 RozanaQuiz — Free Daily Quiz Platform</h3>
+<p><b>100% free</b> daily quizzes for competitive-exam students — score cards, English vocab (synonyms, antonyms, idioms, OWS), SSC JE Civil. Auto-posts to <b>Telegram & Instagram</b> via Vercel Cron.</p>
+<p><img src="https://img.shields.io/badge/Vercel%20Cron-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/Instagram%20API-E4405F?style=flat-square&logo=instagram&logoColor=white"/></p>
+<p><a href="https://www.rozanaquiz.co.in"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+</td>
+</tr>
 </table>
 
----
+## 💼 Client Work — Live in Production
 
-## GitHub Stats
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.unnatclasses.in"><img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.unnatclasses.in&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="Unnat Classes — Coaching Ecosystem" width="100%"/></a>
+<h3>🎓 Unnat Classes — Coaching Ecosystem</h3>
+<p>Complete digital platform for a coaching institute: public website + <a href='https://admin.unnatclasses.in'>Admin Panel</a> + <a href='https://teacher.unnatclasses.in'>Teacher Portal</a>.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Teacher%20Portal-0EA5E9?style=flat-square"/></p>
+<p><a href="https://www.unnatclasses.in"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/KartikayAwasthi/unnat-classes"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.simplymusicindia.com"><img src="https://www.simplymusicindia.com/logo/SimplyMusic.webp" alt="Simply Music India" width="100%"/></a>
+<h3>🎵 Simply Music India</h3>
+<p>Website for a Mumbai music production studio — composition, recording, mixing & mastering and jingles for films, OTT & brands.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Custom%20Domain-EC4899?style=flat-square"/></p>
+<p><a href="https://www.simplymusicindia.com"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://vcuttarakhandtravels.co.in"><img src="https://api.microlink.io/?url=https%3A%2F%2Fvcuttarakhandtravels.co.in&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="VC Uttarakhand Travels" width="100%"/></a>
+<h3>🏔️ VC Uttarakhand Travels</h3>
+<p>Travel booking site for Rishikesh — taxi, Char Dham Yatra, sightseeing, adventure, bike rental & wellness experiences.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Travel-059669?style=flat-square"/></p>
+<p><a href="https://vcuttarakhandtravels.co.in"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.wewravel.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.wewravel.com&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="WeWravel — Travel Experiences" width="100%"/></a>
+<h3>✈️ WeWravel — Travel Experiences</h3>
+<p>Full-stack travel platform — <i>“We Make Vacations Magical!”</i> Curated group trips to Himachal, Uttarakhand & Rajasthan, festive specials, trip leaders & WhatsApp booking.</p>
+<p><img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Frontend%20%2B%20Backend-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/WhatsApp%20Booking-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></p>
+<p><a href="https://www.wewravel.com"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/KartikayAwasthi/WeWravel-frontend"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://github.com/KartikayAwasthi/wewravel-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.looksbeardproductions.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.looksbeardproductions.com&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="Looksbeard Productions" width="100%"/></a>
+<h3>🎬 Looksbeard Productions</h3>
+<p>Creative studio portfolio — <i>“Turning imagination into motion”</i>: 3D work, ad films, motion graphics & content creation.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Animations-F59E0B?style=flat-square"/></p>
+<p><a href="https://www.looksbeardproductions.com"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/KartikayAwasthi/looksbeard2026"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://tech-polarity-2026.vercel.app"><img src="https://api.microlink.io/?url=https%3A%2F%2Ftech-polarity-2026.vercel.app&screenshot=true&meta=false&embed=screenshot.url&viewport.width=1280&viewport.height=720&waitForTimeout=2500" alt="TechPolarity" width="100%"/></a>
+<h3>📰 TechPolarity</h3>
+<p>Technology news & reviews platform — AI, gadgets, software and the products shaping how we live and work.</p>
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Blog%20/%20CMS-6366F1?style=flat-square"/></p>
+<p><a href="https://tech-polarity-2026.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikayAwasthi&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
-</div>
+<p align="center"><i>🖼️ Banner images are live screenshots of each site — click any card to visit.</i></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KartikayAwasthi&theme=tokyonight&hide_border=true" width="55%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&theme=tokyo-night&hide_border=true&line=6366f1&color=6366f1" width="100%"/>
-</div>
-
----
-
-## What I Bring to a Team
-
-- Shipped multiple live production websites for real clients — education, travel, music and appliances
-- Full-stack: React/Next.js frontends → Spring Boot REST APIs → MySQL/PostgreSQL
-- Microservices architecture with Kafka event streaming and Docker containerization
-- Spring ecosystem: Spring Boot · Spring Data JPA · Spring REST · Spring AI
-- Java-native agentic AI: LangChain4j, Spring AI, MCP
-- DevOps basics: Docker, Vercel, Netlify deployments
-- Design-to-code pipeline with polished animation (GSAP, Framer Motion, Three.js)
-
-## Let's Connect
-
-> I'm actively looking for full-time opportunities. If you're building something great, let's talk.
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/kartikayawasthi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ikartikay.awasthi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://ikartikawasthi.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=KartikayAwasthi&show_icons=true&theme=radical&hide_border=true&border_radius=14&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikayAwasthi&layout=compact&theme=radical&hide_border=true&border_radius=14&langs_count=8&bg_color=0d1117"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KartikayAwasthi&theme=radical&hide_border=true&border_radius=14&background=0d1117"/>
+</p>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikayAwasthi&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true&radius=14"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikayAwasthi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KartikayAwasthi/KartikayAwasthi/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KartikayAwasthi/KartikayAwasthi/output/github-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/KartikayAwasthi/KartikayAwasthi/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Build Something
+
+<p align="center">
+  Hiring, freelancing, ya koi cool idea — <b>let's talk!</b> 💬<br/><br/>
+  <a href="https://portfolio-navy-one-gljpzd3r7d.vercel.app"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI%20portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikayawasthi"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+</p>
